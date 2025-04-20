@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "author": " J. K. Rowling",
+        "year": 2003,
+        "genre": "Novel, Fantasy Fiction, Young adult literature",
+        "read": false,
+        "rating": 4,
+        "cover": "covers\\Capture.PNG"
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garc\u00eda M\u00e1rquez",
+        "year": 1967,
+        "genre": " Novel, Family saga, Epic Fiction",
+        "read": false,
+        "rating": 4,
+        "cover": "covers\\Capture 1.PNG"
+    },
+    {
+        "title": "War and Peace",
+        "author": " Leo Tolstoy",
+        "year": 1867,
+        "genre": " Novel, historical novel, Historical Fiction, War story, Romance novel, Philosophical fiction",
+        "read": true,
+        "rating": 4,
+        "cover": "covers\\Capture 2.PNG"
+    },
+    {
+        "title": "Pir-e-Kamil",
+        "author": " Umera Ahmed",
+        "year": 2004,
+        "genre": " Novel",
+        "read": false,
+        "rating": 5,
+        "cover": "covers\\Capture 3.PNG"
+    },
+    {
+        "title": "Muhammad Bin Qasim",
+        "author": "Naseem Hijazi",
+        "year": 1945,
+        "genre": "Historical Fiction, Romance novel, Thriller, Adventure fiction",
+        "read": true,
+        "rating": 5,
+        "cover": "covers\\Capture 4.PNG"
+    }
+]
